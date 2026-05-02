@@ -1,14 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <!-- Phone body -->
-  <rect x="22" y="12" width="20" height="40" rx="3" ry="3" fill="#002569" stroke="#0a0e2a" stroke-width="2"/>
-  <!-- Phone screen -->
-  <rect x="25" y="17" width="14" height="26" fill="#fdf6e3"/>
-  <!-- Speaker slot -->
-  <rect x="29" y="14" width="6" height="1.5" rx="0.75" fill="#fdf6e3"/>
-  <!-- Home button -->
-  <circle cx="32" cy="47" r="1.8" fill="#fdf6e3"/>
-  <!-- Prohibition circle (red ban) -->
-  <circle cx="32" cy="32" r="26" fill="none" stroke="#e91e63" stroke-width="6"/>
-  <!-- Diagonal slash -->
-  <line x1="13.6" y1="13.6" x2="50.4" y2="50.4" stroke="#e91e63" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="32" cy="32" r="26" fill="#ffcd00" stroke="#002569" stroke-width="10"/>
 </svg>
